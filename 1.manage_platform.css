@@ -1,0 +1,25 @@
+.page-header h1{
+    font-size: 25px;
+    color: gray;
+    padding-left: 15px;
+}
+.breadcrumb{
+    margin-top: -30px;
+}
+.text{
+    background-color: dodgerblue;
+    color: white;
+    padding-left: 10px;
+}
+#btn_add #btn_Del #btn_select{
+    display: inline;
+    margin-left: 15px;
+}
+.bs-example{
+    display: inline;
+
+}
+.tab{
+    margin-top: 30px;
+    margin-left: 15px;
+}
